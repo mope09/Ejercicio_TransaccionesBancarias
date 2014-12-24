@@ -1,4 +1,4 @@
-package com.jse.banco.cuenta;
+package com.jse.banco.entidades;
 
 public abstract class Cuenta implements Imprimible {
 	

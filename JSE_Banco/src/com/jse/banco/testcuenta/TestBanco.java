@@ -1,7 +1,7 @@
 package com.jse.banco.testcuenta;
 import java.util.ArrayList;
 
-import com.jse.banco.cuenta.*;
+import com.jse.banco.entidades.*;
 
 public class TestBanco {
 
