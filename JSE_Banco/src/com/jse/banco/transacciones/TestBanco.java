@@ -1,4 +1,4 @@
-package com.jse.banco.testcuenta;
+package com.jse.banco.transacciones;
 import java.util.ArrayList;
 
 import com.jse.banco.entidades.*;
