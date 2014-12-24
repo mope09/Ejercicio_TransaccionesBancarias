@@ -9,17 +9,14 @@ Este ejercicio en JSE contiene ejemplos de:
  - Polimorfismo
  - Uso de un ArrayList
  
- Se requiere crear una pequeña aplicación que simule las operaciones de un banco. 
- Para esto se ha definido dos tipos de cuentas: Ahorros y Corriente, quedando la posibilidad abierta a que en un futuro se cree otro tipo de cuenta. 
- Cualquier cuenta va a tener siempre los atributos: id, saldo, interés y un estado (“Activa” o “Bloqueada”).
- 
- La cuenta corriente va a tener una chequera.
+Se requiere crear una pequeña aplicación que simule las operaciones de un banco. 
+Para esto se ha definido dos tipos de cuentas: Ahorros y Corriente, quedando la posibilidad abierta a que en un futuro se cree otro tipo de cuenta. 
+Cualquier cuenta va a tener siempre los atributos: id, saldo, interés y un estado (“Activa” o “Bloqueada”).
  
  Para ambos tipos de cuenta:
- 
   No se pueden realizar depósitos ni retiros de valores negativos. 
   No se pueden retirar valores mayores al saldo de la cuenta.
-  
+
 En las cuentas corrientes, por cada depósito se realiza un descuento del 1% del monto depositado.
 En las cuentas de ahorros no se puede retirar un monto mayor a 1000.
 En las cuentas corrientes no se puede retirar un monto mayor a 2000.
