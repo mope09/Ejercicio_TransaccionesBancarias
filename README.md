@@ -29,10 +29,16 @@ Los clientes del banco, pueden tener más de una cuenta.
 La aplicación debe brindar la posibilidad de realizar las siguientes operaciones:
 
  Crear un Cliente
+ 
  Crear una Cuenta
+ 
  Agregar cuentas a un cliente
+ 
  Realizar depósitos sobre una cuenta
+ 
  Realizar retiros sobre una cuenta
+ 
  Realizar transferencias entre cuentas
+ 
  Imprimir información de cuentas y clientes
  
